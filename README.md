@@ -20,7 +20,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Test-Suites and Test-Cases](https://github.com/ogaraaa/TestCases/blob/main/G32-2023-02-06.pdf)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1Eg9Dmf74G9vOpU2UNLhAS-nKvVgXI3YKFIxBS7_95tI/edit?usp=sharing)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
