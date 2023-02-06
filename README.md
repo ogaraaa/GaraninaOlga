@@ -1,4 +1,4 @@
-[![Header](https://github.com/ogaraaa/GaraninaOlga/tree/main/assets/myBack.png)]
+[![Header](https://github.com/ogaraaa/GaraninaOlga/blob/main/assets/myBack.png?raw=true)]
 ## I'm a Junior QA Engineer. 
 
 ## My CV
