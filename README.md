@@ -1,18 +1,8 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+[![Header](https://github.com/ogaraaa/GaraninaOlga/tree/main/assets/myBack.png)]
+## I'm a Junior QA Engineer. 
+
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [ChatGPT для тестировщика &lpar;QA Engineer&rpar;. Часть 1](https://www.youtube.com/watch?v=A3B81A_S1uk)
-- [Зачем тестировщику базы данных? #тестировщикснуля #тестировщик #базыданных #shorts](https://www.youtube.com/watch?v=s_ZPfcZn-d4)
-- [Что такое Performance Review? #shorts #тестировщикснуля #тестировщик](https://www.youtube.com/watch?v=7z0iC-pk3Yo)
-- [Зачем тестировщику git и GitHub? #shorts #git #github #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=31MT3iH2fNg)
-- [Postman для QA 2023: обзор функций и интерфейса](https://www.youtube.com/watch?v=B2TxMRFBm8I)
-<!-- YOUTUBE:END -->
+[Link to my CV](https://drive.google.com/file/d/11dF3xFeT_TKmDo5vvCbma_CV7_SpJCoM/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
