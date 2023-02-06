@@ -23,4 +23,4 @@
 - [Test-Suites and Test-Cases](https://github.com/ogaraaa/TestCases/blob/main/G32-2023-02-06.pdf)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1Eg9Dmf74G9vOpU2UNLhAS-nKvVgXI3YKFIxBS7_95tI/edit?usp=sharing)
 - [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/orbital-module-pilot-52551319/workspace/test-workspace/collection/25253346-36d474bf-01d9-417d-86ef-0c57d8f3b631?action=share&creator=25253346)
